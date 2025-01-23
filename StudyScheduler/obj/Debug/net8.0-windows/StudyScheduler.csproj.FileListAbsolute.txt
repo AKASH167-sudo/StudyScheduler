@@ -1,0 +1,17 @@
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\bin\Debug\net8.0-windows\StudyScheduler.exe
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\bin\Debug\net8.0-windows\StudyScheduler.deps.json
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\bin\Debug\net8.0-windows\StudyScheduler.runtimeconfig.json
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\bin\Debug\net8.0-windows\StudyScheduler.dll
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\bin\Debug\net8.0-windows\StudyScheduler.pdb
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.Form1.resources
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.csproj.GenerateResource.cache
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.AssemblyInfoInputs.cache
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.AssemblyInfo.cs
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.csproj.CoreCompileInputs.cache
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.dll
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\refint\StudyScheduler.dll
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.pdb
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.genruntimeconfig.cache
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\ref\StudyScheduler.dll
+C:\Users\99328\source\repos\StudyScheduler\StudyScheduler\obj\Debug\net8.0-windows\StudyScheduler.CustomMessageForm.resources

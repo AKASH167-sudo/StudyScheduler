@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|c:\\users\\99328\\source\\repos\\studyscheduler\\studyscheduler\\custommessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|solutionrelative:studyscheduler\\custommessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|c:\\users\\99328\\source\\repos\\studyscheduler\\studyscheduler\\custommessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|solutionrelative:studyscheduler\\custommessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|c:\\users\\99328\\source\\repos\\studyscheduler\\studyscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|solutionrelative:studyscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|c:\\users\\99328\\source\\repos\\studyscheduler\\studyscheduler\\studyscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|solutionrelative:studyscheduler\\studyscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|c:\\users\\99328\\source\\repos\\studyscheduler\\studyscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|solutionrelative:studyscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|c:\\users\\99328\\source\\repos\\studyscheduler\\studyscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF3408-E0DC-4072-B2CD-EF690F7220A7}|StudyScheduler\\StudyScheduler.csproj|solutionrelative:studyscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomMessageForm.cs",
+              "DocumentMoniker": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\CustomMessageForm.cs",
+              "RelativeDocumentMoniker": "StudyScheduler\\CustomMessageForm.cs",
+              "ToolTip": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\CustomMessageForm.cs",
+              "RelativeToolTip": "StudyScheduler\\CustomMessageForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:00:12.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomMessageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\CustomMessageForm.cs",
+              "RelativeDocumentMoniker": "StudyScheduler\\CustomMessageForm.cs",
+              "ToolTip": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\CustomMessageForm.cs [Design]",
+              "RelativeToolTip": "StudyScheduler\\CustomMessageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:54:19.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudyScheduler",
+              "DocumentMoniker": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\StudyScheduler.csproj",
+              "RelativeDocumentMoniker": "StudyScheduler\\StudyScheduler.csproj",
+              "ToolTip": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\StudyScheduler.csproj",
+              "RelativeToolTip": "StudyScheduler\\StudyScheduler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T03:25:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\Form1.cs",
+              "RelativeDocumentMoniker": "StudyScheduler\\Form1.cs",
+              "ToolTip": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\Form1.cs",
+              "RelativeToolTip": "StudyScheduler\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T03:10:24.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\Form1.cs",
+              "RelativeDocumentMoniker": "StudyScheduler\\Form1.cs",
+              "ToolTip": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\Form1.cs [Design]",
+              "RelativeToolTip": "StudyScheduler\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:53:59.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "StudyScheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\99328\\source\\repos\\StudyScheduler\\StudyScheduler\\Program.cs",
+              "RelativeToolTip": "StudyScheduler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:53:43.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
